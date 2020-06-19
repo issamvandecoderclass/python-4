@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/overhoren.py" line="73" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94bfea1-6254-4c13-893f-3ec3b1aee045" name="Default Changelist" comment="" />
+    <list default="true" id="f94bfea1-6254-4c13-893f-3ec3b1aee045" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/overhoren_2020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesbrief2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesbrief_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lijstwoorden.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lijstwoorden.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overhoren.py" beforeDir="false" afterPath="$PROJECT_DIR$/overhoren.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,31 +87,37 @@
     <session id="-1990153199">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="11" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.closed" value="30" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="19" />
+          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3265" />
+          <entry key="py" value="4805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3265" />
+          <entry key="Python" value="4805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="16" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="15" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -111,13 +128,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/overhoren_2020.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/overhoren.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="54" column="60" selection-start-line="54" selection-start-column="60" selection-end-line="54" selection-end-column="60" />
+            <state relative-caret-position="2737">
+              <caret line="164" column="16" selection-start-line="164" selection-start-column="16" selection-end-line="164" selection-end-column="48" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1569696092414" expanded="true" signature="81:83" ph="..." />
               </folding>
             </state>
           </provider>
@@ -137,6 +162,15 @@
       <find>nieuwe_lijst</find>
       <find>open</find>
       <find>bekijk</find>
+      <find>woorden2</find>
+      <find>lijstwoorden</find>
+      <find>print_header</find>
+      <find>wat zou</find>
+      <find>opslaan()</find>
+      <find>newkey</find>
+      <find>nlwoord</find>
+      <find>enwoor</find>
+      <find>input</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,15 +182,17 @@
         <option value="$PROJECT_DIR$/opdrachten.py" />
         <option value="$PROJECT_DIR$/../python 2/python.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/overhoren.py" />
+        <option value="$PROJECT_DIR$/overhoren_2020.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="855" />
-    <option name="y" value="5" />
-    <option name="width" value="980" />
-    <option name="height" value="1090" />
+    <option name="x" value="45" />
+    <option name="y" value="10" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,10 +211,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sokoban-3d-win-64-1.2/res/scripts/sokoban_main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -194,8 +231,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="overhoren.py" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.overhoren_2020">
+    <configuration name="overhoren_2020" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.." />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overhoren_2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,6 +253,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="overhoren.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overhoren.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.overhoren.py" />
+      <item itemvalue="Python.overhoren_2020" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.overhoren_2020" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -242,24 +309,45 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.11302049" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" weight="0.118968934" />
       <window_info id="Favorites" order="1" sideWeight="0.502" side_tool="true" weight="0.2247191" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Structure" order="2" sideWeight="0.50165236" weight="0.22416107" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.69861203" weight="0.26040268" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.69001985" weight="0.3395973" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49966952" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4976867" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49834764" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4970258" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30138797" side_tool="true" visible="true" weight="0.26040268" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30998018" side_tool="true" weight="0.3395973" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4990086" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.118968934" />
+      <window_info id="Favorites" order="1" sideWeight="0.502" side_tool="true" weight="0.2247191" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Structure" order="2" sideWeight="0.50165236" weight="0.22416107" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.69001985" weight="0.3395973" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49966952" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4976867" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49834764" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4970258" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30998018" side_tool="true" visible="true" weight="0.3395973" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4990086" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -269,13 +357,7 @@
     <entry file="file://$PROJECT_DIR$/test.exe" />
     <entry file="file://$PROJECT_DIR$/jelle.txt" />
     <entry file="file://$PROJECT_DIR$/5" />
-    <entry file="file://$PROJECT_DIR$/opdrachten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/opdrachten.py" />
     <entry file="file://$PROJECT_DIR$/../python 2/hangman.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -298,13 +380,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/../sokoban-3d-win-64-1.2/res/scripts/sokoban_main.py" />
+    <entry file="file://$PROJECT_DIR$/lijstwoorden.txt" />
+    <entry file="file://$PROJECT_DIR$/frans.txt" />
+    <entry file="file://$PROJECT_DIR$/lesbrief2.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/overhoren_2020.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/overhoren.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="54" column="60" selection-start-line="54" selection-start-column="60" selection-end-line="54" selection-end-column="60" />
+        <state relative-caret-position="2737">
+          <caret line="164" column="16" selection-start-line="164" selection-start-column="16" selection-end-line="164" selection-end-column="48" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1569696092414" expanded="true" signature="81:83" ph="..." />
           </folding>
         </state>
       </provider>
